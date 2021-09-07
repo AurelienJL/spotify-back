@@ -1,0 +1,5 @@
+package fr.ajl.spotifyback.controller;
+
+public class LibraryController {
+
+}

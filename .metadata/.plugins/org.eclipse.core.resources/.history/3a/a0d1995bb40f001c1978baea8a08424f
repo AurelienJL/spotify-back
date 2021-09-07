@@ -1,0 +1,14 @@
+package fr.ajl.spotifyback.service;
+
+import fr.ajl.spotifyback.repository.LibraryRepository;
+
+public class LibraryService {
+
+	private final LibraryRepository libraryRepository;
+
+	public LibraryService(LibraryRepository libraryRepository) {
+		this.libraryRepository = libraryRepository;
+	}
+	
+	
+}

@@ -1,0 +1,5 @@
+package fr.ajl.spotifyback.repository;
+
+public interface LibraryRepository {
+
+}
